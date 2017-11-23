@@ -9,6 +9,9 @@ namespace Specflow_Test_Project
         [TestMethod]
         public void TestMethod1()
         {
+
+            Console.WriteLine("Test");
+
         }
     }
 }
